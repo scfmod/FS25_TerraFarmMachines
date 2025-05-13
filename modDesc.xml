@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="92">
+    <author>scfmod</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>TerraFarm - Machines Addon</en>
+    </title>
+    <description>
+        <en>
+            <![CDATA[TerraFarm - Machines Addon]]>
+        </en>
+    </description>
+
+    <iconFilename>icon_terraFarmMachines.dds</iconFilename>
+
+    <multiplayer supported="true" />
+</modDesc>

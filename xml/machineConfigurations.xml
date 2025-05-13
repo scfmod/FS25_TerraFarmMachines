@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configurations>
+    <!-- Giants -->
+    <configuration
+        vehicle="FS25_volvoPack/lm841RockShovel/lm841RockShovel.xml"
+        file="xml/giants/volvo_lm841_rockShovel.xml" />
+    <configuration
+        vehicle="FS25_volvoPack/lm841Shovel/lm841Shovel.xml"
+        file="xml/giants/volvo_lm841_shovel.xml" />
+    <configuration
+        vehicle="FS25_volvoPack/dr631/dr631.xml"
+        file="xml/giants/volvo_dr631.xml" />
+
+
+    <!-- Misc. -->
+    <configuration
+        vehicle="FS25_Excavator_Tools/HDbucket.xml"
+        file="xml/misc/HDBucket.xml" />
+
+    <configuration
+        vehicle="FS25_ExcavatorAttachments/bucket.xml"
+        file="xml/misc/ExcavatorAttachments_bucket.xml" />
+
+    <configuration
+        vehicle="FS25_ExcavatorAttachments/bucketBig.xml"
+        file="xml/misc/ExcavatorAttachments_bucketBig.xml" />
+
+    <configuration
+        vehicle="FS25_FiatAllisAD9/BladeFiatAllis.xml"
+        file="xml/misc/FiatAllisAD9_blade.xml" />
+
+    <configuration
+        vehicle="FS25_Deere650K/650k.xml"
+        file="xml/misc/Deere650K.xml" />
+
+    <configuration
+        vehicle="FS25_JCB714/jcb714.xml"
+        file="xml/misc/JCB714.xml" />
+
+    <configuration
+        vehicle="FS25_JCB_Hydradig/attachments/grBucket110.xml"
+        file="xml/misc/JCB_Hydradig_grBucket.xml" />
+
+    <configuration
+        vehicle="FS25_JCB_Hydradig/attachments/gpBucket110.xml"
+        file="xml/misc/JCB_Hydradig_gpBucket.xml" />
+
+    <configuration
+        vehicle="FS25_JCB_Hydradig/attachments/trBucket110.xml"
+        file="xml/misc/JCB_Hydradig_trBucket.xml" />
+
+    <configuration
+        vehicle="FS25_JCBBackhoeLoader/bucket.xml"
+        file="xml/misc/JCBBackhoeLoader_bucket.xml" />
+
+    <configuration
+        vehicle="FS25_JCBBackhoeLoader/bucketBig.xml"
+        file="xml/misc/JCBBackhoeLoader_bucketBig.xml" />
+
+    <configuration
+        vehicle="FS25_JCBBackhoeLoader/bucketFront.xml"
+        file="xml/misc/JCBBackhoeLoader_bucketFront.xml" />
+
+    <configuration
+        vehicle="FS25_CatD6T/D6T2.xml"
+        file="xml/misc/D6T2.xml" />
+
+    <configuration
+        vehicle="FS25_CatD6T/D6T2UBlade.xml"
+        file="xml/misc/D6T2U.xml" />
+
+    <configuration
+        vehicle="FS25_CatD6T/Ripper.xml"
+        file="xml/misc/D6T2_Ripper.xml" />
+
+    <configuration
+        vehicle="ACM_Cat_D11_NextGen/Blade.xml"
+        file="xml/misc/ACM_Cat_D11_NextGen_Blade.xml" />
+
+    <configuration
+        vehicle="ACM_Cat_D11_NextGen/Ripper.xml"
+        file="xml/misc/ACM_Cat_D11_NextGen_Ripper.xml" />
+
+
+    <configuration
+        vehicle="FS25_Case_CX35B/caseEX.xml"
+        file="xml/misc/Case_CX35B.xml" />
+
+    <configuration
+        vehicle="FS25_Case_CX35B/Bucket1.xml"
+        file="xml/misc/Case_CX35B_Bucket1.xml" />
+
+    <configuration
+        vehicle="FS25_JD135c/jdExcavator.xml"
+        file="xml/misc/JD135c.xml" />
+
+    <configuration
+        vehicle="FS25_JD135c/diggingBucket.xml"
+        file="xml/misc/JD135c_diggingBucket.xml" />
+
+    <configuration
+        vehicle="FS25_JD135c/finishingBucket.xml"
+        file="xml/misc/JD135c_finishingBucket.xml" />
+
+    <configuration
+        vehicle="FS25_JD135c/gradingBucket.xml"
+        file="xml/misc/JD135c_gradingBucket.xml" />
+
+    <configuration
+        vehicle="FS25_DoosanDX225LC/WerkBrau4Tooth.xml"
+        file="xml/misc/DoosanDX225LC_WerkBrau4Tooth.xml" />
+
+    <configuration
+        vehicle="FS25_DoosanDX225LC/WerkBrau5Tooth.xml"
+        file="xml/misc/DoosanDX225LC_WerkBrau5Tooth.xml" />
+
+    <configuration
+        vehicle="FS25_DoosanDX225LC/WerkBrau6Tooth.xml"
+        file="xml/misc/DoosanDX225LC_WerkBrau6Tooth.xml" />
+
+    <configuration
+        vehicle="fs25_DynapacCC2200/DynapacCC2200.xml"
+        file="xml/misc/DynapacCC2200.xml" />
+
+    <configuration
+        vehicle="FS25_T_130/TO_10A_Bucket.xml"
+        file="xml/misc/T_130_Bucket.xml" />
+
+    <configuration
+        vehicle="FS25_T_130/Leveler.xml"
+        file="xml/misc/T_130_Leveler.xml" />
+
+
+    <configuration
+        vehicle="FS25_gjerstadPack/bucket1250lS70.xml"
+        file="xml/gjerstadPack/bucket1250lS70.xml" />
+
+    <configuration
+        vehicle="FS25_gjerstadPack/xml/bucket2.xml"
+        file="xml/gjerstadPack/bucket2.xml" />
+
+    <configuration
+        vehicle="FS25_gjerstadPack/xml/bucket2mini.xml"
+        file="xml/gjerstadPack/bucket2mini.xml" />
+
+    <configuration
+        vehicle="FS25_gjerstadPack/xml/bucket3.xml"
+        file="xml/gjerstadPack/bucket3.xml" />
+
+    <configuration
+        vehicle="FS25_gjerstadPack/xml/bucket3mini.xml"
+        file="xml/gjerstadPack/bucket3mini.xml" />
+
+    <configuration
+        vehicle="FS25_gjerstadPack/xml/bucket4.xml"
+        file="xml/gjerstadPack/bucket4.xml" />
+</configurations>

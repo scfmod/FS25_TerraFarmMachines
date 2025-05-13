@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicle>
+    <machine type="compactor">
+        <input modes="FLATTEN SMOOTH PAINT" />
+        <workArea referenceNode="1>0" width="2" offset="0 -0.85 0" />
+    </machine>
+</vehicle>
