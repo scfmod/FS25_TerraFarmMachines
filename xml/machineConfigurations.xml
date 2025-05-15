@@ -15,7 +15,7 @@
     <!-- Misc. -->
     <configuration
         vehicle="FS25_Excavator_Tools/HDbucket.xml"
-        file="xml/misc/HDBucket.xml" />
+        file="xml/misc/HDbucket.xml" />
 
     <configuration
         vehicle="FS25_ExcavatorAttachments/bucket.xml"
