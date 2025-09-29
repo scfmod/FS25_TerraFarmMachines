@@ -10,6 +10,12 @@
     <configuration
         vehicle="FS25_volvoPack/dr631/dr631.xml"
         file="xml/giants/volvo_dr631.xml" />
+    <configuration
+        vehicle="data/vehicles/krampe/hp20/hp20.xml"
+        file="xml/giants/krampe_hp20.xml" />
+    <configuration
+        vehicle="pdlc_daimlerTruckPack/vehicles/sirch/halfpipe/halfpipe.xml"
+        file="xml/giants/daimlerTruckPack_halfpipe.xml" />
 
 
     <!-- Misc. -->
